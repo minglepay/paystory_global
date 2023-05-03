@@ -21,7 +21,7 @@
 
   <br>
 
--  ## APPLEPAY PAYMENT
+-  ## APPLE PAY PAYMENT
    - ✔ Apple Pay is a simple payment method that authenticates using an Apple device and pays with a card registered in Apple Wallet.
    
       - 📒  [APPLEPAY PAYMENT ](https://github.com/minglepay/paystory_global/wiki/PAYSTORY-APPLEPAY-PAYMENT-GUIDE)
