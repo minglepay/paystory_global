@@ -24,7 +24,7 @@
                <p>
                <a href="https://docs.google.com/uc?export=download&id=12TUr6o_kphz-EEDOjWjClF1frZUwNUup&confirm=t">
                <img src="https://img.shields.io/badge/-JSP-bb0000?style=for-the-badge" width="59"></a>&nbsp;&nbsp;
-               <<a href="https://docs.google.com/uc?export=download&id=12JEUmSs6KeSTp_My36x9Di15t1cJYQld&confirm=t">
+               <a href="https://docs.google.com/uc?export=download&id=12JEUmSs6KeSTp_My36x9Di15t1cJYQld&confirm=t">
                <img src="https://img.shields.io/badge/-PHP-00b9ff?style=for-the-badge" width="64"></a>&nbsp;&nbsp;
                </p>
  <br>
